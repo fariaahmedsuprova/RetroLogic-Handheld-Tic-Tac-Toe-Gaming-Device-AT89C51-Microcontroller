@@ -1,4 +1,5 @@
-# RetroLogic-Handheld-Tic-Tac-Toe-Gaming-Device-AT89C51-Microcontroller
+#RetroLogic – 8051 Tic-Tac-Toe Gaming System
+
 ## Overview
 
 RetroLogic is a standalone embedded Tic-Tac-Toe gaming device developed using the AT89C51 (8051) microcontroller and programmed entirely in 8051 Assembly Language.
@@ -75,7 +76,7 @@ The AI system includes:
 
 The following image shows the overall system architecture including keypad input, AT89C51 microcontroller, LCD display, and supporting hardware units.
 
-![Block Diagram](Block Diagram.jpg)
+![Block Diagram](Block%20Diagram.jpg)
 
 ---
 
@@ -91,7 +92,7 @@ The flowchart below represents the complete software execution flow including me
 
 This image shows the reset mode and initial startup interface of the system.
 
-![Reset Mode](Reset Mode.png)
+![Reset Mode](Reset%20Mode.png)
 
 ---
 
@@ -101,7 +102,7 @@ The following image demonstrates Player vs Player gameplay mode where:
 - Player 1 = X
 - Player 2 = O
 
-![PvP Mode](PvP Mode Player 1 X Player 2 O.png)
+![PvP Mode](PvP%20Mode%20Player%201%20X%20Player%202%20O.png)
 
 ---
 
@@ -109,7 +110,7 @@ The following image demonstrates Player vs Player gameplay mode where:
 
 This image shows gameplay progression after Player O performs a move.
 
-![PvP Move O](PvP Mode (Move O).png)
+![PvP Move O](PvP%20Mode%20(Move%20O).png)
 
 ---
 
@@ -159,3 +160,4 @@ This project provided practical experience in:
 - Game logic development
 - Hardware-software integration
 - Proteus simulation and debugging
+
